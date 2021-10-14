@@ -1,6 +1,6 @@
 [package]
 name = "ups-low-battery-level"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["Stepanov Denis <stepanov.d.m@yandex.ru>"]
 description = "Application for sending SMS notifications about UPS operation."
